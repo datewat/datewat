@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rust
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: professional distrohopper
+- i use linux
