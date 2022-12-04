@@ -1,2 +1,2 @@
 ![](https://streak-stats.demolab.com/?user=hyperbel?theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperbel&layout=compact&theme=tokyonight)
+![Hyperbel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperbel&show_icons=true&theme=tokyonight)
